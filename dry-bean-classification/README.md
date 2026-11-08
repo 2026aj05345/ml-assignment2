@@ -50,7 +50,7 @@ The supplied `test_data.csv` contains the 16 input features and the actual `Clas
 ## 3. GitHub Repository Link
 
 **GitHub Repository:**  
-[https://github.com/2026aj05345/ml-assignment2.git]
+https://github.com/2026aj05345/ml-assignment2.git
 
 The repository should contain the source code, trained model files, test dataset, results, dependency file, and this README.
 
