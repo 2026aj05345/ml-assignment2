@@ -50,7 +50,7 @@ The supplied `test_data.csv` contains the 16 input features and the actual `Clas
 ## 3. GitHub Repository Link
 
 **GitHub Repository:**  
-[Add your GitHub repository URL here after creating the repository.]
+[https://github.com/2026aj05345/ml-assignment2.git]
 
 The repository should contain the source code, trained model files, test dataset, results, dependency file, and this README.
 
@@ -159,7 +159,7 @@ The application loads the trained Joblib model files from the `model/` directory
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/2026aj05345/ml-assignment2.git
    cd dry-bean-classification
    ```
 
