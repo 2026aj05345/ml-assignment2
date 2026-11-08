@@ -99,7 +99,7 @@ The five classifiers were evaluated on the same held-out test set. The following
 
 **Metric averaging:** Precision, Recall, and F1 Score are weighted averages for the multiclass problem. AUC is macro-averaged using the one-vs-rest approach. MCC is calculated as a multiclass correlation coefficient.
 
-### Observation about model performance
+### Observation about each model performance
 
 **1. Logistic Regression**
 
