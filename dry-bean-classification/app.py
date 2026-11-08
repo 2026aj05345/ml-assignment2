@@ -26,11 +26,11 @@ st.set_page_config(
 MODEL_DIRECTORY = "model"
 
 MODEL_FILES = {
-    "Logistic Regression": "logistic_regression.joblib",
-    "Decision Tree": "decision_tree.joblib",
-    "K-Nearest Neighbors": "knearest_neighbors.joblib",
-    "Naive Bayes": "naive_bayes.joblib",
-    "Support Vector Machine": "support_vector_machine.joblib"
+    "Logistic Regression": "dry-bean-classification/model/logistic_regression.joblib",
+    "Decision Tree": "dry-bean-classification/model/decision_tree.joblib",
+    "K-Nearest Neighbors": "dry-bean-classification/model/knearest_neighbors.joblib",
+    "Naive Bayes": "dry-bean-classification/model/naive_bayes.joblib",
+    "Support Vector Machine": "dry-bean-classification/model/support_vector_machine.joblib"
 }
 
 st.markdown("""
