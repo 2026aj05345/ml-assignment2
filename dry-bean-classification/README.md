@@ -140,7 +140,7 @@ Logistic Regression was a close second, with 92.07% accuracy and a weighted F1 S
 ## 5. Streamlit Application
 
 **Live Streamlit App:**  
-[Add your deployed Streamlit Community Cloud URL here.]
+https://ml-assignment2-wvlsxzjd6d3omhxcq9mras.streamlit.app/
 
 ### Application features
 
